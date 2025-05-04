@@ -1,0 +1,7 @@
+pytest>=6.0
+pytest-cov>=2.0
+black>=22.0
+isort>=5.0
+flake8>=3.9
+build>=0.10.0
+twine>=4.0.2
